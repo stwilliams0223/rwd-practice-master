@@ -1,0 +1,40 @@
+/*Desktop*/
+
+@media screen and (max-width: 992px){
+
+	body{
+
+		background: red;
+
+	}
+
+}
+
+
+/*Tablet*/
+
+@media screen and (max-width: 768px){
+
+	body{
+
+		background: yellow;
+
+	}
+
+}
+
+
+/*Mobile*/
+
+@media screen and (max-width: 480px){
+
+	body{
+
+		background: teal;
+
+	}
+
+}
+
+
+
